@@ -1,0 +1,17 @@
+/* Estilos CSS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    color: rgb(119, 91, 122);
+    text-shadow:blueviolet 2px 6px 10px;
+}
